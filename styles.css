@@ -1,0 +1,28 @@
+body {
+	background: url(wedding-cake.png) no-repeat center center fixed; 
+	background-size: cover;}
+
+
+/*#landing-container {
+	 Using box model to move from top of page and center 
+	<link href="https://fonts.googleapis.com/css?family=Oswald|ZCOOL+XiaoWei" rel="stylesheet">
+
+	font-family: 'ZCOOL XiaoWei', serif;
+font-family: 'Oswald', sans-serif;
+
+margin: 0px
+    border:
+    padding:
+	content:
+	
+	.Box {
+		background-color: #fff;
+		border: 1px solid #d1d5da;
+		border-radius: 3px;
+	}
+
+	div {
+		width: 300px;
+		border: 25px solid green;
+		padding: 25px;
+		margin: 25px;*/
